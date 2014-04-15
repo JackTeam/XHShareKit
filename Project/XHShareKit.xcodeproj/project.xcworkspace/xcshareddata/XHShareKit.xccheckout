@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>7B0EFFCB-1DE3-499B-A6FB-0AF04946D33A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>XHShareKit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>215D3935-8B84-4C52-918D-838642E4645B</key>
+		<string>https://github.com/JackTeam/XHShareKit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>XHShareKit/XHShareKit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>215D3935-8B84-4C52-918D-838642E4645B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/JackTeam/XHShareKit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>215D3935-8B84-4C52-918D-838642E4645B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>215D3935-8B84-4C52-918D-838642E4645B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>XHShareKit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
